@@ -7,17 +7,22 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: S Shovon's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
+name: S M Abu Naser Shovon
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+I am Pursuing PhD in Mechanical Engineering at North Carolina State University. A diligent, energetic, and fast learning person with 5+ years of experience in a manufacturing laboratory environment.
+
+Technologies and Methodologies
+- Abaqus, MATLAB, SolidWorks, AutoCAD
+- Manufacturing Technologies (SLA, DLP, DIW, FDM, Sintering, Acoustophoresis, Molding, Casting) 
+- Metallography, Mechanical Performance Testing (Tensile, Compression and 3-Point Bending)
+- SEM, FTIR, AFM, Rheology, 3D Imaging, Optical microscopy 
+- Origin50, ImageJ, Minitab, Microsoft Office (Word, Excel, PowerPoint)
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
